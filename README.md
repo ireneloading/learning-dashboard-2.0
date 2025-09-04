@@ -11,3 +11,14 @@ A Streamlit app to track learning progress and revision visually.
 ## How to run it
 pip install streamlit  
 streamlit run learning_dashboard.py
+
+## Screenshots
+
+### Dashboard
+<img src="learning Dashboard2.01.JPG" alt="Dashboard" width="500"/>
+
+### Dashboard with Example course
+<img src="learning Dashboard2.02.JPG" alt="Example Course" width="500"/>
+
+### Pie Chart
+<img src="learning Dashboard2.03.JPG" alt="Pie Chart" width="500"/>
